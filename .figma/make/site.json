@@ -1,0 +1,11 @@
+{
+  "title": "Mascot Guideline",
+  "description": "Engaging mascot-based platform designed for medical students, offering interactive learning tools and resources to enhance their educational experience.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
